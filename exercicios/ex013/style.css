@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+    text-align: center;
+    background-color: beige;
+}
+
+h1 { 
+    color:darkseagreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    text-align: center;
+}
